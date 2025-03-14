@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "cypress": "^12.8.1"
+    "cypress": "^12.8.1",
+    "ex051_direto_ao_ponto": "file:"
   },
   "name": "ex051_direto_ao_ponto",
   "version": "1.0.0",
